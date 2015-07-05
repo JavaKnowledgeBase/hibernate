@@ -13,6 +13,7 @@ public class HiberPrac {
 		this.id = id;
 	}
 	public String getName() {
+		System.out.println("just for check in");
 		return name;
 	}
 	public void setName(String name) {
